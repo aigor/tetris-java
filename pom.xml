@@ -6,7 +6,7 @@
     <artifactId>tetris-jetty</artifactId>
     <version>1.0-SNAPSHOT</version>
     <name>tetris-server</name>
-    <packaging>war</packaging>
+    <packaging>jar</packaging>
 
     <properties>
         <jetty.version>8.1.3.v20120416</jetty.version>
